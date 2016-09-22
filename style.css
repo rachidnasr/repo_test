@@ -1,0 +1,32 @@
+body{font-family: Arial;}
+h1 {
+    background-color: #2168BC;
+    border-bottom: 4px solid #2F21BC;
+    color: #fff;
+    text-align: center;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 800px;
+    background-color: #fff;
+}
+
+.content {
+    background-color: #64C6ED;
+    padding: 20px;
+    color: #000;
+    border-radius: 25px;
+
+
+}
+
+#header {
+    align-text: center;
+}
+ img{
+ 	float: left;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	border: 1px solid #000;
+ }
